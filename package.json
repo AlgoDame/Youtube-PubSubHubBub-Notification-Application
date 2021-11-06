@@ -1,0 +1,35 @@
+{
+  "name": "youtube-pubsubhubbub-notification-application",
+  "version": "1.0.0",
+  "description": "Youtube PubSubHubBub Notification Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc",
+    "start": "ts-node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlgoDame/Youtube-PubSubHubBub-Notification-Application.git"
+  },
+  "keywords": [
+    "push-notifications",
+    "youtube pubsubhub",
+    "Youtube api",
+    "new video notification"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlgoDame/Youtube-PubSubHubBub-Notification-Application/issues"
+  },
+  "homepage": "https://github.com/AlgoDame/Youtube-PubSubHubBub-Notification-Application#readme",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^3.9.7",
+    "youtube-notification": "^1.1.0"
+  }
+}
