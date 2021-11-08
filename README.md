@@ -18,6 +18,11 @@ npm start
 ```
 npm run dev
 ```
+
+# Link to my blog post on this project
+[How to Subscribe to and Receive Push Notifications from YouTube’s API using Typescript and Nodejs](https://dev.to/algodame/how-to-subscribe-to-and-receive-push-notifications-from-youtubes-api-using-typescript-and-nodejs-2gik)
+
+
 # Technologies used ![](https://img.shields.io/badge/Technologies-used-red.svg) 
 * ![](https://img.shields.io/badge/Typescript-.ts-blue.svg) 
 * ![](https://img.shields.io/badge/Nodejs-.js-green.svg) 
